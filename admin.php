@@ -1,6 +1,5 @@
 <?php
 include('config.php');
-
 // Set the correct password
 $correctPassword = "farok"; // Change this to your actual password
 
